@@ -120,7 +120,7 @@ I hold a degree in Systems Analysis and Development and am currently pursuing a 
     align="center" 
     alt="GitHub Stats" 
     width="37%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayrongradilone&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api?username=kayrongradilon)](https://github.com/anuraghazra/github-readme-stats" 
   />
 </p>
 </div>
