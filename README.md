@@ -105,6 +105,12 @@ I hold a degree in Systems Analysis and Development and am currently pursuing a 
 <br/>
 <br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kayronsilveira/kayronsilveira/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kayronsilveira/kayronsilveira/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kayronsilveira/kayronsilveira/output/github-snake-light.svg">
+</picture>
+
 <br clear="left"/>
 <h3 align="center">Contato</h3>
 
