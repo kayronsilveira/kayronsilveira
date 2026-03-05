@@ -1,13 +1,13 @@
 
-<h2 align="center">Hi 👋! My name is Kayron Gradilone and I'm a Full Stack Developer, from Florianópolis - Brasil</h2>
+<h2 align="left">Hi 👋! My name is Kayron Gradilone and I'm a Full Stack Developer, from Florianópolis - Brasil</h2>
 
 ###
 
-<h3 align="center"> My Stats :</h3>
+<h3 align="left"> My Stats :</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=kayronsilveira&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
@@ -15,7 +15,7 @@
 
 
 ###
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -33,7 +33,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://instagram.com/kayrongradilone" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
@@ -49,8 +49,9 @@
 
 ###
 
-
 <br clear="both">
 
+<div align="left">
 <img src="https://raw.githubusercontent.com/kayronsilveira/kayronsilveira/output/snake.svg" alt="Snake animation" />
+</div>
 
